@@ -56,7 +56,7 @@
 ---
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnava-dutta&show_icons=true&locale=en" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=swarnava-dutta&show_icons=true&locale=en" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnava-dutta" alt="GitHub Streak" />
 </div>
 
